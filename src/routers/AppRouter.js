@@ -9,6 +9,7 @@ const AppRouter = () => (
       <Header />
       <Switch>
         <Route path='/' exact={true} />
+        <Route path='portfolio' />
         <Route component={NotFoundPage} />
       </Switch>
     </div>
