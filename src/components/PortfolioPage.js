@@ -1,9 +1,10 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 const PortfolioPage = () => (
   <div>
-    Item One
-    Item Two
+    <NavLink to="">Item One</NavLink>
+    <NavLink to="">Item Two</NavLink>
   </div>
 );
 
