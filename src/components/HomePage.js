@@ -5,3 +5,5 @@ const HomePage = () => (
     <h1>Portfolio</h1>
   </div>
 );
+
+export default HomePage;
