@@ -10,6 +10,7 @@ const AppRouter = () => (
       <Switch>
         <Route path='/' exact={true} />
         <Route path='portfolio' />
+        <Route path='contact' />
         <Route component={NotFoundPage} />
       </Switch>
     </div>
