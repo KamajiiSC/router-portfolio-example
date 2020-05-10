@@ -3,6 +3,7 @@ import React from 'react';
 import Header from '../components/Header';
 import HomePage from '../components/HomePage';
 import NotFoundPage from '../components/NotFoundPage';
+import PortfolioPage from '../components/PortfolioPage';
 import ContactPage from '../components/ContactPage';
 
 const AppRouter = () => (
